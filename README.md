@@ -1,8 +1,8 @@
-# Egyptians in AI
+<h2 align='center'> Moroccans in AI </h2>
 
-Website: https://bkhmsi.github.io/egyptians-in-ai/
+Website: https://mohamedelbaha.github.io/moroccans-in-ai/
 
-Welcome to Egyptian in AI, a website dedicated to showcasing the profiles of prominent Egyptian researchers in the field of artificial intelligence. 
+Welcome to Moroccans in AI, a website dedicated to showcasing the profiles of prominent Moroccan researchers in the field of artificial intelligence. 
 
 If you think that someone is missing from our list of featured researchers, we welcome contributions from the community. You can create a pull request on our GitHub repository to suggest the addition of a new researcher or to update the information for an existing one.
 

@@ -11,7 +11,7 @@ import { FilterService } from '../filter.service';
 
 export class EnglishComponent implements OnInit {
   
-  title = 'Egyptians in AI';
+  title = 'Moroccans in AI';
   researchers: IResearcher[] = people;
   rinterests: {[key: string]: boolean} = {};
   rinterestsFreq: {[key: string]: number} = {};

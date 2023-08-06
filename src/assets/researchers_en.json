@@ -424,5 +424,42 @@
         ],
         "citedby": 3432,
         "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Abdellah Adib",
+        "affiliation": "FST Mohammedia",
+        "position": "Professor",
+        "hindex": 23,
+        "photo": "./assets/images/abdellah-adib.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=bP5yWokAAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/abdellah-adib-85a95547/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Biomedical Signal Processing",
+            "Speech Recognition",
+            "Emotion Detection",
+            "Arabic Machine Translation"
+        ],
+        "citedby": 1505,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Ayoub Karine",
+        "affiliation": " ISEN YNCREA Ouest",
+        "position": "Associate Professor",
+        "hindex": 6,
+        "photo": "./assets/images/ayoub-karine.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=acAw9KAAAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/ayoub-karine-a01ba384",
+        "website": "https://ayoubkarine.github.io/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision",
+            "Deep Learning"
+        ],
+        "citedby": 143,
+        "lastupdate": "2023-08-04"
     }
 ]

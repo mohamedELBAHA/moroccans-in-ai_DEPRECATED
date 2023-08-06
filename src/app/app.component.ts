@@ -8,7 +8,7 @@ import { ActivatedRoute, Router, RoutesRecognized  } from '@angular/router';
   encapsulation: ViewEncapsulation.None
 })
 export class AppComponent implements OnInit {
-  title = 'Egyptians in AI';
+  title = 'Moroccans in AI';
   en_active: boolean = true;
   
   constructor(private route: ActivatedRoute, private router: Router) {

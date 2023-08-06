@@ -28,7 +28,7 @@
         "hindex": 12,
         "photo": "./assets/images/redouane-lguensat.jpg",
         "scholar": "https://scholar.google.com/citations?hl=fr&user=DuiyaQoAAAAJ",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/redouanelguensat/s",
         "website": "http://redouanelg.github.io/",
         "twitter": "",
         "interests": [
@@ -347,6 +347,82 @@
             "Software effort estimation"
         ],
         "citedby": 7060,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Soufiane Hayou",
+        "affiliation": "National University of Singapore",
+        "position": "Peng Tsu Ann Assistant Professor",
+        "hindex": 8,
+        "photo": "./assets/images/soufiane-hayou.jpg",
+        "scholar": "https://scholar.google.com/citations?user=JBb5zekAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://uk.linkedin.com/in/soufiane-hayou-8a506b84",
+        "website": "https://www.soufianehayou.com/",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Initialization",
+            "Activation Function",
+            "Optimization",
+            "Stochastic processes"
+        ],
+        "citedby": 408,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "El Mahdi El Mhamdi",
+        "affiliation": "École Polytechnique",
+        "position": "AI/ML security researcher Assistant Professor",
+        "hindex": 14,
+        "photo": "./assets/images/elmahdi-elmhamdi.jpg",
+        "scholar": "https://scholar.google.com/citations?user=kNA-WLQAAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mahdielmhamdi/",
+        "website": "https://elmahdielmhamdi.com/",
+        "twitter": "",
+        "interests": [
+            "Robustness",
+            "Distributed Systems",
+            "Complex Systems",
+            "Machine Learning"
+        ],
+        "citedby": 2178,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Mehdi Cherti",
+        "affiliation": " Jülich Super-computing Center",
+        "position": "PostDoc Researcher",
+        "hindex": 8,
+        "photo": "./assets/images/mehdi-cherti.jpg",
+        "scholar": "https://scholar.google.com/citations?user=JgOyYi8AAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mehdi-cherti",
+        "website": "https://mehdidc.github.io/",
+        "twitter": "",
+        "interests": [
+            "Transfer Learning",
+            "Few-shot Learning",
+            "Meta-Learning"
+        ],
+        "citedby": 587,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Amal El Fallah Seghrouchni",
+        "affiliation": "UM6P",
+        "position": "Executive President of Ai Movement",
+        "hindex": 24,
+        "photo": "./assets/images/amal-elfallah.jpg",
+        "scholar": "https://scholar.google.com/citations?user=CPwNXK4AAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/amal-el-fallah-seghrouchni-7459363/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Autonomous agents",
+            "Multi-Agent Systems",
+            "Ambient intelligence"
+        ],
+        "citedby": 3432,
         "lastupdate": "2023-08-04"
     }
 ]

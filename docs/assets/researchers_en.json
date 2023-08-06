@@ -28,7 +28,7 @@
         "hindex": 12,
         "photo": "./assets/images/redouane-lguensat.jpg",
         "scholar": "https://scholar.google.com/citations?hl=fr&user=DuiyaQoAAAAJ",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/redouanelguensat/s",
         "website": "http://redouanelg.github.io/",
         "twitter": "",
         "interests": [
@@ -178,6 +178,251 @@
             "Machine translation"
         ],
         "citedby": 473,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Hajar Mousannif",
+        "affiliation": "Cadi Ayyad University",
+        "position": "Associate Professor",
+        "hindex": 21,
+        "photo": "./assets/images/hajar-mousannif.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=93WZ-rYAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/hajar-mousannif/",
+        "website": "https://mousannifhajar.com/",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Analytics",
+            "IoT",
+            "Machine translation"
+        ],
+        "citedby": 2706,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Mohamed Daoudi",
+        "affiliation": "IMT Nord Europe",
+        "position": "Professor",
+        "hindex": 46,
+        "photo": "./assets/images/mohamed-daoudi.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=fr&user=7UoD6McAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/mohameddaoudi/",
+        "website": "https://sites.google.com/view/mohameddaoudi",
+        "twitter": "",
+        "interests": [
+            "Pattern Recognition",
+            "Shape Analysis",
+            "Computer Vision"
+        ],
+        "citedby": 7005,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Hicham Hajji",
+        "affiliation": "School of Geomatics, IAV",
+        "position": "Professor",
+        "hindex": 7,
+        "photo": "./assets/images/hicham-hajji.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=-iAQwIIAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/dr-hajji-hicham-6601606/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Spatial Big Data",
+            "Artificial Intelligence",
+            "Spatial Database"
+        ],
+        "citedby": 124,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Halima Bensmail",
+        "affiliation": "Qatar Computing Research Institute",
+        "position": "Principal Scientist",
+        "hindex": 26,
+        "photo": "./assets/images/halima-bensmail.jpeg",
+        "scholar": "hhttps://scholar.google.com/citations?user=Nlf0C2EAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/halima-bensmail-41016149/",
+        "website": "https://bioinformatics.qcri.org/profile",
+        "twitter": "",
+        "interests": [
+            "Statistical Machine Learning",
+            "Bioinformatics",
+            "Artificial Intelligence"
+        ],
+        "citedby": 2479,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Rachid Guerraoui",
+        "affiliation": "EPFL",
+        "position": "Professor",
+        "hindex": 76,
+        "photo": "./assets/images/rachid-guerraoui.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=_TR-7CEAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/rachid-guerraoui-40587b15/",
+        "website": "https://people.epfl.ch/rachid.guerraoui",
+        "twitter": "",
+        "interests": [
+            "Algorithms",
+            "Distributed Computing",
+            "Concurrency",
+            "Programming Languages"
+        ],
+        "citedby": 30659,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Malik Ghallab",
+        "affiliation": "CNRS-LAAS",
+        "position": "Research Director",
+        "hindex": 33,
+        "photo": "./assets/images/malik-ghallab.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=A4v885AAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/malikghallab/",
+        "website": "hthttps://homepages.laas.fr/malik/Home/Home.html",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Robotics",
+            "Automated Planning"
+        ],
+        "citedby": 11498,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Soundouss Messoudi",
+        "affiliation": "Université de Technologie de Compiègne",
+        "position": "Lecturer",
+        "hindex": 4,
+        "photo": "./assets/images/soundouss-messoudi.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=2JqnKisAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/soundoussmessoudi",
+        "website": "https://www.hds.utc.fr/~smessoud/dokuwiki/en/start",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Conformal Prediction",
+            "Uncertainty Quantification"
+        ],
+        "citedby": 46,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Imane Khaouja",
+        "affiliation": "University of Kent",
+        "position": "PostDoc Researcher",
+        "hindex": 4,
+        "photo": "./assets/images/imane-khaouja.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=WkmqfFgAAAAJ&hl=fr&oi=ao#d=gs_hdr_drw&t=1691324284394",
+        "linkedin": "https://www.linkedin.com/in/imane-khaouja-85229515b",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Natural Language Processing"
+        ],
+        "citedby": 83,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Ali Idri",
+        "affiliation": "Mohammed V University",
+        "position": "Professor",
+        "hindex": 38,
+        "photo": "./assets/images/ali-idri.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=XPGHiPsAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/ali-idri-245762152/?originalSubdomain=ma",
+        "website": "hthttps://homepages.laas.fr/malik/Home/Home.html",
+        "twitter": "",
+        "interests": [
+            "Computer Science",
+            "Machine Learning",
+            "Health Informatics",
+            "Software Engineering",
+            "Software effort estimation"
+        ],
+        "citedby": 7060,
+        "lastupdate": "2023-08-06"
+    },
+    {
+        "name": "Soufiane Hayou",
+        "affiliation": "National University of Singapore",
+        "position": "Peng Tsu Ann Assistant Professor",
+        "hindex": 8,
+        "photo": "./assets/images/soufiane-hayou.jpg",
+        "scholar": "https://scholar.google.com/citations?user=JBb5zekAAAAJ&hl=fr&oi=ao",
+        "linkedin": "https://uk.linkedin.com/in/soufiane-hayou-8a506b84",
+        "website": "https://www.soufianehayou.com/",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Initialization",
+            "Activation Function",
+            "Optimization",
+            "Stochastic processes"
+        ],
+        "citedby": 408,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "El Mahdi El Mhamdi",
+        "affiliation": "École Polytechnique",
+        "position": "AI/ML security researcher Assistant Professor",
+        "hindex": 14,
+        "photo": "./assets/images/elmahdi-elmhamdi.jpg",
+        "scholar": "https://scholar.google.com/citations?user=kNA-WLQAAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mahdielmhamdi/",
+        "website": "https://elmahdielmhamdi.com/",
+        "twitter": "",
+        "interests": [
+            "Robustness",
+            "Distributed Systems",
+            "Complex Systems",
+            "Machine Learning"
+        ],
+        "citedby": 2178,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Mehdi Cherti",
+        "affiliation": " Jülich Super-computing Center",
+        "position": "PostDoc Researcher",
+        "hindex": 8,
+        "photo": "./assets/images/mehdi-cherti.jpg",
+        "scholar": "https://scholar.google.com/citations?user=JgOyYi8AAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mehdi-cherti",
+        "website": "https://mehdidc.github.io/",
+        "twitter": "",
+        "interests": [
+            "Transfer Learning",
+            "Few-shot Learning",
+            "Meta-Learning"
+        ],
+        "citedby": 587,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Amal El Fallah Seghrouchni",
+        "affiliation": "UM6P",
+        "position": "Executive President of Ai Movement",
+        "hindex": 24,
+        "photo": "./assets/images/amal-elfallah.jpg",
+        "scholar": "https://scholar.google.com/citations?user=CPwNXK4AAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/amal-el-fallah-seghrouchni-7459363/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Autonomous agents",
+            "Multi-Agent Systems",
+            "Ambient intelligence"
+        ],
+        "citedby": 3432,
         "lastupdate": "2023-08-04"
     }
 ]

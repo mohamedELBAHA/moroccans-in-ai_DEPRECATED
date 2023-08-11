@@ -461,5 +461,115 @@
         ],
         "citedby": 143,
         "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Afaf Taik",
+        "affiliation": "Mila",
+        "position": "PostDoc Researcher",
+        "hindex": 7,
+        "photo": "./assets/images/afaf-taik.jpg",
+        "scholar": "https://scholar.google.com/citations?user=NcQKeqsAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/afaf-ta%C3%AFk-44548a12b/",
+        "website": "https://afaf-taik.github.io/",
+        "twitter": "",
+        "interests": [
+            "Federated Learning",
+            "Reinforcement learning",
+            "Robustness in Machine learning",
+            "Wireless Communication",
+            "Edge computing"
+        ],
+        "citedby": 290,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Hamd Ait Abdelali",
+        "affiliation": "Mohammed V University",
+        "position": "Research scientist",
+        "hindex": 6,
+        "photo": "./assets/images/hamd-ait.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=31DC6xAAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/hamd-ait-abdelali-572a874b/?originalSubdomain=ma",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Signal Processing"
+        ],
+        "citedby": 104,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Younes Raoui",
+        "affiliation": "Mohammed V University",
+        "position":"Professor",
+        "hindex": 5,
+        "photo": "./assets/images/raoui-younes.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=_lU88P4AAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/youn%C3%A8s-raoui-9824981a/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Robotics",
+            "Machine Learning"
+        ],
+        "citedby": 78,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Yassir Jedra",
+        "affiliation": " KTH Royal Institute of Technology ",
+        "position":"Ph.D. student",
+        "hindex": 5,
+        "photo": "./assets/images/yassir-jedra.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=tePNfWQAAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/yassirjedra/",
+        "website": "https://sites.google.com/view/yassir-jedra/home",
+        "twitter": "",
+        "interests": [
+            "Reinforcement Learning",
+            "Bandits",  
+            "Control"
+        ],
+        "citedby": 206,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Loubna Benabbou",
+        "affiliation": "University of Quebec at Rimouski",
+        "position":"Professor",
+        "hindex": 10,
+        "photo": "./assets/images/loubna-Benabbou.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=S8bzEmUAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/lbenabbou/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Management And Decision Sciences"
+        ],
+        "citedby": 463,
+        "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Mohamed Amine Bennouna",
+        "affiliation": "MIT Operations Research Center",
+        "position":"Ph.D. student",
+        "hindex": 10,
+        "photo": "./assets/images/amine-bennouna.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=-acf4MQAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mohammed-amine-bennouna/",
+        "website": "https://www.mit.edu/~amineben/",
+        "twitter": "",
+        "interests": [
+            "Distributionally Robust Optimization",
+            "Machine Learning",
+            "Data-driven Decision Making",
+            "Statistical Learning"
+        ],
+        "citedby": 190,
+        "lastupdate": "2023-08-04"
     }
+
 ]

@@ -19,5 +19,5 @@ You can add a researcher by changing the `src/assets/researchers.json` file and 
 ## Acknowledgment
 
 I am deeply grateful to <a href="https://bkhmsi.github.io">Badr Alkhamissi</a>
-, whose exceptional dedication were instrumental in developing the original website for "Egyptians in AI." His contribution in sharing this initiative has inspired other 'X in Y' projects.
+, whose skills and exceptional dedication were instrumental in developing the original website for "Egyptians in AI." His contribution in sharing this initiative has inspired other 'X in Y' projects.
 

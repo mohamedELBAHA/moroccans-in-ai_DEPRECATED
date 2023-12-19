@@ -570,6 +570,25 @@
         ],
         "citedby": 190,
         "lastupdate": "2023-08-04"
+    },
+    {
+        "name": "Hamza ES-SAMAALI",
+        "affiliation": "Hassan II University",
+        "position":"AI/ML researcher",
+        "hindex": 5,
+        "photo": "./assets/images/hamza-es-samaali.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=as7y3TAAAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/hamza-es/",
+        "website": "https://haoes.github.io/",
+        "twitter": "",
+        "interests": [
+            "Big Data",
+            "Information Security",
+            "Machine Learning"
+        ],
+        "citedby": 329,
+        "lastupdate": "2023-12-19"
     }
+
 
 ]

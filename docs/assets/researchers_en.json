@@ -588,7 +588,43 @@
         ],
         "citedby": 329,
         "lastupdate": "2023-12-19"
+    },
+    {
+        "name": "Maha GMIRA",
+        "affiliation": " United Nations for Development",
+        "position":"Expert in AI strategy",
+        "hindex": 4,
+        "photo": "./assets/images/maha-gmira.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=LYfbL_kAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/maha-g-68175613a/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Data Science",
+            "Operations research",
+            "Transportation and Logistics"
+        ],
+        "citedby": 170,
+        "lastupdate": "2023-12-19"
+    },
+    {
+        "name": "Mounir GHOGHO",
+        "affiliation": "Université Internationale de Rabat",
+        "position":"Professor",
+        "hindex": 44,
+        "photo": "./assets/images/mounir-ghogho.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=aIXHNpAAAAAJ&hl=en&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mounir-ghogho-25927bb/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Signal Processing",
+            "Wireless Communication"
+        ],
+        "citedby": 8063,
+        "lastupdate": "2023-12-19"
     }
-
 
 ]

@@ -625,6 +625,142 @@
         ],
         "citedby": 8063,
         "lastupdate": "2023-12-19"
+    },
+    {
+        "name": "Sanae Lotfi",
+        "affiliation": "New York University",
+        "position":"Ph.D. student",
+        "hindex": 6,
+        "photo": "./assets/images/sanae-lotfi.jpg",
+        "scholar": "https://scholar.google.com/citations?user=0GyjMX4AAAAJ&authuser=2",
+        "linkedin": "https://www.linkedin.com/in/sanae-lotfi-636825127",
+        "website": "https://sanaelotfi.github.io/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Deep Learning Theory",
+            "Generative Models",
+            "Artificial Intelligence"
+        ],
+        "citedby": 174,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Mehdi Bennis",
+        "affiliation": "University Oulu",
+        "position":"Professor, Head of ICON",
+        "hindex": 85,
+        "photo": "./assets/images/mehdi-bennis.jpg",
+        "scholar": "https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mehdi-bennis-56a4715/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "B5G/6G",
+            "machine learning",
+            "semantic communication",
+            "protocol learning"
+        ],
+        "citedby": 41851,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Mounim Yacoubi",
+        "affiliation": "University Oulu",
+        "position":"Professor, Head of ICON",
+        "hindex": 28,
+        "photo": "./assets/images/mounim-yacoubi.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=ObFYefYAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/moun%C3%AEm-a-el-yacoubi-26b1269/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Statistical Pattern Recognition",
+            "Data Mining"
+        ],
+        "citedby": 3257,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Mehdi Bennis",
+        "affiliation": "University Oulu",
+        "position":"Professor, Head of ICON",
+        "hindex": 85,
+        "photo": "./assets/images/mehdi-bennis.jpg",
+        "scholar": "https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mehdi-bennis-56a4715/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "B5G/6G",
+            "machine learning",
+            "semantic communication",
+            "protocol learning"
+        ],
+        "citedby": 41851,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Abdekkah El Mekki",
+        "affiliation": "UM6P",
+        "position":"NLP Researcher",
+        "hindex": 8,
+        "photo": "./assets/images/abdellah-mekki.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=0hheG2YAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/abdellah-el-mekki",
+        "website": "https://elmekki.me/",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Computer Science",
+            "Natural Language Processing",
+            "Deep Learning"
+        ],
+        "citedby": 208,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "El Habib Nfaoui",
+        "affiliation": "Sidi Mohamed Ben Abdellah University",
+        "position":" ​Associate Professor ",
+        "hindex": 13,
+        "photo": "./assets/images/Elhabib-Nfaoui.jpeg",
+        "scholar": "https://scholar.google.fr/citations?user=XWiiQh8AAAAJ&hl=fr",
+        "linkedin": "https://www.linkedin.com/in/el-habib-nfaoui-b813289b/?originalSubdomain=ma",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Web mining and Text mining",
+            "Natural Language Processing",
+            "Multi-Agent Systems"
+        ],
+        "citedby": 755,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Loubna Ben Allal",
+        "affiliation": "HuggingFace",
+        "position":" ML Research Engineer ",
+        "hindex": 7,
+        "photo": "./assets/images/Loubna-benallal.jpeg",
+        "scholar": "https://scholar.google.fr/citations?hl=fr&user=reU1i-sAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
+        "website": "",
+        "twitter": "https://twitter.com/Loubnabenallal1",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Large Language Models"
+        ],
+        "citedby": 1357,
+        "lastupdate": "2024-02-09"
     }
+        
 
 ]

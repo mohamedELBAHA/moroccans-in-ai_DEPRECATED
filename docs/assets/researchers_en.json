@@ -1,8 +1,8 @@
 [
     {
         "name": "Salim Chemlal",
-        "affiliation": "ZS - NVIDIA",
-        "position": "AI Engineering Lead",
+        "affiliation": "AI71",
+        "position": "Director of Product at AI71 ",
         "hindex": 5,
         "photo": "./assets/images/salim-chemlal.jpg",
         "scholar": "https://scholar.google.com/citations?user=wR3q2WkAAAAJ&hl=fr&oi=ao",
@@ -18,7 +18,7 @@
             "Computational Linguistics"
         ],
         "citedby": 77,
-        "lastupdate": "2023-08-04"
+        "lastupdate": "2024-08-04"
     },
 
     {
@@ -686,26 +686,6 @@
         "lastupdate": "2024-02-09"
     },
     {
-        "name": "Mehdi Bennis",
-        "affiliation": "University Oulu",
-        "position":"Professor, Head of ICON",
-        "hindex": 85,
-        "photo": "./assets/images/mehdi-bennis.jpg",
-        "scholar": "https://scholar.google.com/citations?user=RW4sJu8AAAAJ&hl=en",
-        "linkedin": "https://www.linkedin.com/in/mehdi-bennis-56a4715/",
-        "website": "",
-        "twitter": "",
-        "interests": [
-            "Machine Learning",
-            "B5G/6G",
-            "machine learning",
-            "semantic communication",
-            "protocol learning"
-        ],
-        "citedby": 41851,
-        "lastupdate": "2024-02-09"
-    },
-    {
         "name": "Abdekkah El Mekki",
         "affiliation": "UM6P",
         "position":"NLP Researcher",
@@ -759,6 +739,25 @@
             "Large Language Models"
         ],
         "citedby": 1357,
+        "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Nouamane Tazi",
+        "affiliation": "HuggingFace",
+        "position":" ML Research Engineer ",
+        "hindex": 5,
+        "photo": "./assets/images/nouamaneTazi.jpg",
+        "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=fr&hl=fr&user=q2bZs1IAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/nouamanetazi/",
+        "website": "",
+        "twitter": "https://twitter.com/Loubnabenallal1",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Large Language Models",
+            "Natural Language Processing"
+        ], 
+        "citedby": 1840,
         "lastupdate": "2024-02-09"
     }
         

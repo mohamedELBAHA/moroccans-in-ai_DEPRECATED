@@ -750,7 +750,7 @@
         "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=fr&hl=fr&user=q2bZs1IAAAAJ",
         "linkedin": "https://www.linkedin.com/in/nouamanetazi/",
         "website": "",
-        "twitter": "https://twitter.com/Loubnabenallal1",
+        "twitter": "",
         "interests": [
             "Artificial Intelligence",
             "Machine Learning",
@@ -759,6 +759,26 @@
         ], 
         "citedby": 1840,
         "lastupdate": "2024-02-09"
+    },
+    {
+        "name": "Mohammed El Rhabi",
+        "affiliation": "Centrale Casablanca",
+        "position":"Professor",
+        "hindex": 11,
+        "photo": "./assets/images/elrhabi.jpg",
+        "scholar": "https://scholar.google.ca/citations?user=G95SHDEAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/melrhabi",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Applied Mathematics",
+            "Signal processing",
+            "Image processing"
+        ], 
+        "citedby": 360,
+        "lastupdate": "2024-10-08"
     }
         
 
